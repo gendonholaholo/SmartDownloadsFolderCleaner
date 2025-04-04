@@ -2,7 +2,7 @@
 
 Smart CLI Cleaner for Windows Downloads Folder
 
-![DropClear Banner](assets/dropbanner.png)
+![DropClear Banner](assets/dropbanner1.png)
 
 ## Features
 
