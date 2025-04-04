@@ -76,3 +76,5 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/ 
+
+DropClear-v1.0.0.zip
