@@ -6,17 +6,17 @@ Smart CLI Cleaner for Windows Downloads Folder
 
 ## Features
 
-- 🔍 **Smart Scanning**: Recursively scan your downloads folder and subfolders
-- 🧹 **Intelligent Cleaning**: Remove old and large files based on customizable criteria
-- 📦 **File Archiving**: Automatically archive important files to keep them organized
-- 🎯 **Fuzzy Search**: Find files using fuzzy matching for more flexible searches
-- ⚙️ **Customizable Settings**:
-  - Set minimum file size and age
-  - Exclude specific file extensions
-  - Exclude specific folders
-  - Customize archive location
-- 🎨 **Beautiful CLI Interface**: Modern and user-friendly terminal interface
-- 💾 **Persistent Configuration**: Your settings are saved between sessions
+- **Smart Scanning**: Recursively scan your downloads folder and subfolders
+- **Intelligent Cleaning**: Remove old and large files based on customizable criteria
+- **File Archiving**: Automatically archive important files to keep them organized
+- **Fuzzy Search**: Find files using fuzzy matching for more flexible searches
+- **Customizable Settings**:
+- Set minimum file size and age
+- Exclude specific file extensions
+- Exclude specific folders
+- Customize archive location
+- **Beautiful CLI Interface**: Modern and user-friendly terminal interface
+- **Persistent Configuration**: Your settings are saved between sessions
 
 ## Installation
 
