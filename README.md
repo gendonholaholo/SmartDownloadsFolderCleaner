@@ -10,7 +10,7 @@ Smart CLI Cleaner for Windows Downloads Folder
 - 🧹 **Intelligent Cleaning**: Remove old and large files based on customizable criteria
 - 📦 **File Archiving**: Automatically archive important files to keep them organized
 - 🎯 **Fuzzy Search**: Find files using fuzzy matching for more flexible searches
-- ⚙️ **Customizable Settings**: 
+- ⚙️ **Customizable Settings**:
   - Set minimum file size and age
   - Exclude specific file extensions
   - Exclude specific folders
@@ -31,8 +31,8 @@ Smart CLI Cleaner for Windows Downloads Folder
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dropclear.git
-cd dropclear
+git clone https://github.com/gendonholaholo/SmartDownloadsFolderCleaner.git
+cd SmartDownloadsFolderCleaner
 
 # Install dependencies
 pip install -r requirements.txt
@@ -47,17 +47,20 @@ python dropclear.py
 
 The application provides four main options:
 
-1. **Scan Files**: 
+1. **Scan Files**:
+
    - View files in your downloads folder
    - Filter by age, size, and name
    - See detailed folder structure
 
 2. **Clean Files**:
+
    - Remove old or large files
    - Preview files before deletion
    - Get summary of cleaned folders
 
 3. **Archive Files**:
+
    - Move specific file types to archive
    - Maintain folder structure
    - Get archive summary by type
@@ -113,14 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses [TheFuzz](https://github.com/seatgeek/thefuzz) for fuzzy matching
 - Inspired by the need for a smarter downloads folder manager
 
-## Support
-
-If you encounter any issues or have suggestions:
-
-1. Check the [Issues](https://github.com/yourusername/dropclear/issues) page
-2. Create a new issue if needed
-3. Provide as much detail as possible
-
 ---
 
-Made with ❤️ for cleaner downloads folders 
+Made with ❤️ for cleaner downloads folders
+~ Mas Gendon
